@@ -7,10 +7,9 @@ import Greeting from "./Greeting";
 const App = () => {
   
   return (
-     <>
+    
     <Greeting />
-     
-     </>
+ 
   )
 }
 
